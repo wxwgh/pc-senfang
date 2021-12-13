@@ -2,7 +2,7 @@
 const webpack = require('webpack')
 module.exports = {
 	publicPath: "./",
-	outputDir: "web",
+	outputDir: "dist",
 	/* 放置生成的静态资源 (js、css、img、fonts) 的 (相对于 outputDir 的) 目录 */
 	// assetsDir: "assets",
 	// px转rem的配置（postcss-plugin-px2rem插件）
